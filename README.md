@@ -1,3 +1,7 @@
+![Header](./github-header-image.png)
+
+---
+
 # 👋 Hi, I’m Alex Xavier Ruiz  
 **Front-End Developer | Aspiring Full-Stack Engineer | TripleTen Software Engineering Student**
 
