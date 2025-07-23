@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I’m Alex Xavier Ruiz  
+**Front-End Developer | Aspiring Full-Stack Engineer | TripleTen Software Engineering Student**
 
-<!--
-**AlexXavierRuiz571/AlexXavierRuiz571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I’m a career-changer currently studying full-stack development through the TripleTen Software Engineering Program, with a strong focus on building clean, responsive, and accessible front-end interfaces using HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in customer service taught me how to deliver real value, and now I apply that mindset to code. While I’m strongest in front-end development, I’m actively expanding into the back end with Node.js, Express, and MongoDB to become a well-rounded full-stack engineer.
+
+---
+
+## 🚀 Featured Project
+
+### 📸 [Spots – Responsive Social Media Photo App](https://alexxavierruiz571.github.io/se_project_spots/)
+A cumulative front-end project showcasing:
+- Semantic HTML and BEM-based CSS
+- Responsive design using Flexbox and media queries
+- Interactive modals and like buttons
+- [🎥 Walkthrough Video](https://drive.google.com/file/d/1Q5FiMj5MiSts-u2yZ4Yis5umPeFqnsTx/view?usp=sharing)  
+- [🖼️ Figma Design](https://www.figma.com/design/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project--Spots?node-id=2-218&t=g0ymdBvPaXHeIC63)
+
+---
+
+## 💻 Technical Skills
+
+- **Front-End:** HTML5, CSS3, BEM, Flexbox, Media Queries, Figma  
+- **Version Control:** Git, GitHub  
+- **Learning Now:** JavaScript, DOM, Events, Accessibility  
+- **Up Next:** React, Node.js, Express, MongoDB
+
+
+---
+
+## 🧠 About Me
+
+- Former full-time retail rep, now focused on software engineering  
+- Strong communicator and visual thinker with an eye for UI detail  
+- Passionate about learning by building real-world projects  
+- Dedicated to becoming a **full-stack developer** capable of owning front-to-back user experiences
+
+---
+
+## 📍 Location  
+United States (EST) – Open to remote, internships, and junior dev opportunities
+
+---
+
+## 📫 Let’s Connect  
+- [GitHub](https://github.com/alexxavierruiz571)  
+- [LinkedIn](www.linkedin.com/in/alex-ruiz-291a29373)  
+- Email: ruiz.xavier@ymail.com
