@@ -28,6 +28,15 @@ A cumulative front-end project showcasing:
 - **Learning Now:** JavaScript, DOM, Events, Accessibility  
 - **Up Next:** React, Node.js, Express, MongoDB
 
+---
+
+## 🎯 Goals
+
+- Continue building real-world projects to strengthen my front-end foundation  
+- Explore different areas of software engineering to find my best fit  
+- Become confident in full-stack development using JavaScript, React, Node.js, and MongoDB  
+- Stay consistent with learning and improving through hands-on experience  
+- Land my first opportunity in the tech industry — whether it’s front-end, back-end, or full-stack
 
 ---
 
