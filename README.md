@@ -9,21 +9,27 @@
 
 ---
 
-I’m a career-changer currently studying full-stack development through the TripleTen Software Engineering Program, with a strong focus on building clean, responsive, and accessible front-end interfaces using HTML, CSS, and JavaScript.
+I’m a career-changer currently studying full-stack development through the TripleTen Software Engineering Program. I focus on building clean, responsive, and accessible front-end interfaces using HTML, CSS, and JavaScript.
 
-My background in customer service taught me how to deliver real value, and now I apply that mindset to code. While I’m strongest in front-end development, I’m actively expanding into the back end with Node.js, Express, and MongoDB to become a well-rounded full-stack engineer.
+My background in customer service taught me how to deliver real value, and now I apply that mindset to code. While strongest in front-end, I’m actively expanding into back-end technologies like Node.js, Express, and MongoDB to become a well-rounded full-stack engineer.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 📸 [Spots – Responsive Social Media Photo App](https://alexxavierruiz571.github.io/se_project_spots/)
-A cumulative front-end project showcasing:
-- Semantic HTML and BEM-based CSS
-- Responsive design using Flexbox and media queries
-- Interactive modals and like buttons
-- [🎥 Walkthrough Video](https://drive.google.com/file/d/1Q5FiMj5MiSts-u2yZ4Yis5umPeFqnsTx/view?usp=sharing)  
-- [🖼️ Figma Design](https://www.figma.com/design/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project--Spots?node-id=2-218&t=g0ymdBvPaXHeIC63)
+### 📸 [Spots – Responsive Social Media Photo App](https://alexxavierruiz571.github.io/se_project_spots/)  
+A cumulative front-end project showcasing:  
+- Semantic HTML and BEM CSS  
+- Responsive design using Flexbox and media queries  
+- Interactive modals and like buttons  
+[🎥 Walkthrough Video](https://drive.google.com/file/d/1Q5FiMj5MiSts-u2yZ4Yis5umPeFqnsTx/view?usp=sharing) | [🖼️ Figma Design](https://www.figma.com/design/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project--Spots?node-id=2-218&t=g0ymdBvPaXHeIC63)
+
+### 💸 [Savr – Budget Tracker App](https://alexxavierruiz571.github.io/savr-budget-app/)  
+A responsive budget simulation app featuring:  
+- Modular CSS with BEM methodology  
+- Real-time income and expense tracking with validation  
+- Accessible and responsive layout  
+
 
 ---
 
@@ -38,29 +44,29 @@ A cumulative front-end project showcasing:
 
 ## 🎯 Goals
 
-- Continue building real-world projects to strengthen my front-end foundation  
-- Explore different areas of software engineering to find my best fit  
-- Become confident in full-stack development using JavaScript, React, Node.js, and MongoDB  
-- Stay consistent with learning and improving through hands-on experience  
-- Land my first opportunity in the tech industry — whether it’s front-end, back-end, or full-stack
+- Build real-world projects to strengthen front-end and full-stack skills  
+- Explore software engineering roles to find my best fit  
+- Become confident in JavaScript-based full-stack development  
+- Stay consistent with hands-on learning  
+- Land a junior developer role, remote or onsite
 
 ---
 
 ## 🧠 About Me
 
-- Former full-time retail rep, now focused on software engineering  
-- Strong communicator and visual thinker with an eye for UI detail  
-- Passionate about learning by building real-world projects  
-- Dedicated to becoming a **full-stack developer** capable of owning front-to-back user experiences
+- Former retail rep, now focused on software engineering  
+- Strong communicator and visual thinker with UI attention  
+- Passionate about learning through projects  
+- Dedicated to becoming a full-stack developer owning front-to-back user experiences
 
 ---
 
 ## 📍 Location  
-United States (EST) – Open to remote, internships, and junior dev opportunities
+Navarre, FL (CT) — Open to remote, internships, and junior dev roles
 
 ---
 
 ## 📫 Let’s Connect  
 - [GitHub](https://github.com/alexxavierruiz571)  
-- [LinkedIn](www.linkedin.com/in/alex-ruiz-291a29373)  
+- [LinkedIn](https://www.linkedin.com/in/alex-ruiz-291a29373)  
 - Email: ruiz.xavier@ymail.com
