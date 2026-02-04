@@ -4,69 +4,85 @@
 
 ---
 
-# 👋 Hi, I’m Alex Xavier Ruiz  
-**Front-End Developer | Aspiring Full-Stack Engineer | TripleTen Software Engineering Student**
+# Hello, I’m Alex Xavier Ruiz  
+**Junior Front-End Developer | Entry-level Full-Stack Javascript Engineer**
 
 ---
 
-I’m a career-changer currently studying full-stack development through the TripleTen Software Engineering Program. I focus on building clean, responsive, and accessible front-end interfaces using HTML, CSS, and JavaScript.
+I am a junior software developer with a strong foundation in front-end development and hands-on experience building full-stack JavaScript applications.
 
-My background in customer service taught me how to deliver real value, and now I apply that mindset to code. While strongest in front-end, I’m actively expanding into back-end technologies like Node.js, Express, and MongoDB to become a well-rounded full-stack engineer.
+My work focuses on clean UI structure, responsive layouts, and predictable application behavior. I value clear code, accessibility, and practical problem solving, and I approach projects with the goal of building features that make sense for real users.
+
+I completed the TripleTen Software Engineering program, where I built and shipped multiple production-style projects involving responsive front-end development, API integration, and full-stack application flows. Through these projects, I strengthened my understanding of planning before coding, writing maintainable code, and documenting work clearly.
+
+While my primary strength is front-end development, I am comfortable working across the stack and continue to grow my full-stack skill set through hands-on projects.
+---
+
+## Featured Projects
+
+### [SAVR - Budget Simulation App](https://alexxavierruiz571.github.io/savr-budget-app/)  
+A responsive budget simulation application designed to model real-world financial decision-making.
+
+- Modular, scalable front-end architecture
+- Shared data model across income, expenses, savings, debt, and lifestyle categories
+- Real-world cost-of-living estimates with fallback data handling
+- Clear visual hierarchy and color-coded budget breakdowns
+- Designed for extensibility rather than one-off tracking
+
+
+### [WTWR (What to Wear) - Full-Stack Weather-Based App](https://alexxavierruiz571.github.io/se_project_react/)  
+A full-stack JavaScript application that recommends clothing based on live weather data.
+
+- React front end with reusable components
+- Node.js and Express backend
+- API integration for real-time weather data
+- User-facing logic driven by real conditions rather than static rules 
+
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 📸 [Spots – Responsive Social Media Photo App](https://alexxavierruiz571.github.io/se_project_spots/)  
-A cumulative front-end project showcasing:  
-- Semantic HTML and BEM CSS  
-- Responsive design using Flexbox and media queries  
-- Interactive modals and like buttons  
-[🎥 Walkthrough Video](https://drive.google.com/file/d/1Q5FiMj5MiSts-u2yZ4Yis5umPeFqnsTx/view?usp=sharing) | [🖼️ Figma Design](https://www.figma.com/design/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project--Spots?node-id=2-218&t=g0ymdBvPaXHeIC63)
-
-### 💸 [Savr – Budget Tracker App](https://alexxavierruiz571.github.io/savr-budget-app/)  
-A responsive budget simulation app featuring:  
-- Modular CSS with BEM methodology  
-- Real-time income and expense tracking with validation  
-- Accessible and responsive layout  
-
+- **Front-End:** HTML5, CSS3, BEM, Flexbox, Media Queries, Responsive Design, Figma
+- **JavaScript:** Vanilla JavaScript, DOM Manipulation, Event Handling, Form Validation
+- **Frameworks & Libraries:** React, Vite
+- **Back-End:** Node.js, Express, REST APIs
+- **Databases:** MongoDB
+- **Version Control:** Git, GitHub
+- **Cloud & Deployment:** Google Cloud (VM deployment), NGINX, PM2, GitHub Pages
+- **Tooling & Workflow:** ESLint, Prettier, Modular Project Structure, API Integration
 
 ---
 
-## 💻 Technical Skills
+## Goals
 
-- **Front-End:** HTML5, CSS3, BEM, Flexbox, Media Queries, Figma  
-- **Version Control:** Git, GitHub  
-- **Learning Now:** JavaScript, DOM, Events, Accessibility  
-- **Up Next:** React, Node.js, Express, MongoDB
-
----
-
-## 🎯 Goals
-
-- Build real-world projects to strengthen front-end and full-stack skills  
-- Explore software engineering roles to find my best fit  
-- Become confident in JavaScript-based full-stack development  
-- Stay consistent with hands-on learning  
-- Land a junior developer role, remote or onsite
+- Continue building real-world front-end and full-stack applications  
+- Strengthen JavaScript, React, and application architecture fundamentals  
+- Learn from code reviews and collaboration with experienced engineers  
+- Grow into a confident full-stack developer  
+- Secure a junior or entry-level software engineering role  
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- Former retail rep, now focused on software engineering  
-- Strong communicator and visual thinker with UI attention  
-- Passionate about learning through projects  
-- Dedicated to becoming a full-stack developer owning front-to-back user experiences
+- Junior software developer with a strong front-end foundation
+- Background in customer-facing roles, bringing a product and user-focused mindset
+- Clear communicator with attention to UI structure and visual clarity
+- Focused on writing readable, maintainable code
+- Motivated by learning through building complete projects
+  
+---
+
+## Location
+
+Navarre, FL
+Open to remote and onsite roles
 
 ---
 
-## 📍 Location  
-Navarre, FL (CT) — Open to remote, internships, and junior dev roles
+## Let’s Connect  
 
----
-
-## 📫 Let’s Connect  
 - [GitHub](https://github.com/alexxavierruiz571)  
 - [LinkedIn](https://www.linkedin.com/in/alex-ruiz-291a29373)  
 - Email: ruiz.xavier@ymail.com
