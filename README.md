@@ -16,6 +16,7 @@ My work focuses on clean UI structure, responsive layouts, and predictable appli
 I completed the TripleTen Software Engineering program, where I built and shipped multiple production-style projects involving responsive front-end development, API integration, and full-stack application flows. Through these projects, I strengthened my understanding of planning before coding, writing maintainable code, and documenting work clearly.
 
 While my primary strength is front-end development, I am comfortable working across the stack and continue to grow my full-stack skill set through hands-on projects.
+
 ---
 
 ## Featured Projects
