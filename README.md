@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-image.png" alt="Alex Xavier Ruiz - GitHub Banner" />
+  <img src="./github-header-banner.png" alt="Alex Xavier Ruiz - GitHub Banner" />
 </p>
 
 ---
